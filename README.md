@@ -58,3 +58,4 @@ As specified, the new employee form will only be accessible when the currently s
 
 
 ### Trello board screenshots
+![Trello board screenshot1](docs/Trelloboard-pic1.png)
