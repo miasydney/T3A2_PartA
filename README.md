@@ -27,8 +27,10 @@ Target Audience: The target audience for the website is local animal shelters an
 - Deployment: Railway, Netlify
 
 ### Dataflow Diagram
+![Dataflow Diagram](/docs/Dataflow%20Diagram.png)
 
 ### Application Architecture Diagram
+![Application Architecture Diagram](/docs/Application%20Architecture%20Diagram.png)
 
 ### User Stories
 
