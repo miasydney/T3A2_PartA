@@ -59,3 +59,8 @@ As specified, the new employee form will only be accessible when the currently s
 
 ### Trello board screenshots
 ![Trello board screenshot1](docs/Trelloboard-pic1.png)
+![Trello board screenshot 2](docs/Trello2.png)
+![Trello board screenshot 3](docs/Trello3.png)
+![Trello board screenshot 4](docs/Trello4.png)
+![Trello board screenshot 5](docs/Trello5.png)
+![Trello board screenshot 6](docs/Trello6.png)
