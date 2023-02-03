@@ -27,12 +27,26 @@ Target Audience: The target audience for the website is local animal shelters an
 - Deployment: Railway, Netlify
 
 ### Dataflow Diagram
-![Dataflow Diagram](/docs/Dataflow%20Diagram.png)
+![Dataflow Diagram](/docs/DataflowDiagram.png)
 
 ### Application Architecture Diagram
 ![Application Architecture Diagram](/docs/Application%20Architecture%20Diagram.png)
 
 ### User Stories
+Our application is for internal organisational use, therefore our 2 types of users are employees and administrators.
+
+#### Employee
+* As an employee I want to be able to view all animals in our database so I can see what animals we have available for adoption.
+* As an employee I want to be able to add new animals to the database so new animals can be added to the database and made available for adoption
+* As an employee I want to be able to update medication details for animals so that other employees can view this information and it can be kept up to date
+* As an employee I want to be able to mark animals as ‘adopted’ when an animal is successfully placed in a new home. This means that other users will know this animal is no longer available for adoption.
+* As an employee I want to be able to remove animals from the database when they no longer need to be listed. This keeps the database up to date so that all animals listed are relevant
+
+#### Administrator
+* As an administrator I want to be able to do all of the above.
+* As an administrator I want to be able to add new employees so that any new staff can be added to the database.
+* As an administrator I want to be able to remove employees who have left our organization so that they no longer have access to our database.
+* As an administrator I want to be able to edit employee details so that any personal details can be updated, keeping the database relevant.
 
 ### Wireframes
 Our wireframes represent three standard screen sizes: Desktop, Tablet and Mobile.
