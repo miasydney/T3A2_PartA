@@ -39,8 +39,14 @@ Our application is for internal organisational use, therefore our 2 types of use
 * As an employee I want to be able to view all animals in our database so I can see what animals we have available for adoption.
 * As an employee I want to be able to add new animals to the database so new animals can be added to the database and made available for adoption
 * As an employee I want to be able to update medication details for animals so that other employees can view this information and it can be kept up to date
+* As an employee I want to be able to edit the notes about an animal in their listing so that other employees such as trainers or vets can be kept up to date
+* As an employee I want to be able to upload an image of the animal with their listing so that other employees can easily identify the animal.
 * As an employee I want to be able to mark animals as ‘adopted’ when an animal is successfully placed in a new home. This means that other users will know this animal is no longer available for adoption.
 * As an employee I want to be able to remove animals from the database when they no longer need to be listed. This keeps the database up to date so that all animals listed are relevant
+* As an employee, I want to log in to the system securely using my username and password so that my personal information and data is protected.
+* As an employee, I want to be able to log out of the system when I am done working so that my session is ended and my information is protected.
+* As an employee, I want to receive an error if my login is unsuccessful so that I can take appropriate action (e.g. checking my login credentials).
+
 
 #### Administrator
 * As an administrator I want to be able to do all of the above.
